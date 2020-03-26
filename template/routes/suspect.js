@@ -4,8 +4,9 @@ const SuspectController = require("../controllers/SuspectController")
 //routingan
 
 //buat daftar patient
-router.get("/register", SuspectController)//dapat form
-router.post("/register", SuspectController)//kirim form ke data base
+router.get("/", SuspectController.read)//dapat form
+router.get("/choosehospital/:id", SuspectController.create)
+
 
 
 

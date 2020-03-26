@@ -1,0 +1,19 @@
+
+
+jadi awalnya itu user, ngakses (/), nah disitu ada pilihan register atau login. 
+Misal dia login, arahin ke (/login)
+setelah dia login, 
+Validasi 1 : before create, dicek dulu di db, ada ga email dia. kalo ga ada, disuruh register dulu.
+Validasi 2 : kalo emailnya ada, dicek lagi, dia admin apa non admin, kalo non admin, dia diarahi,
+    tapi kalo dia admin, lgsg di arahin ke (/hospitals) 
+    Nah di (/hospital) ini dia bisa mainin (/addPatient) dll
+
+    Kalo dia non admin, nah ini yang gua belom kepikiran selanjutnya gmn
+
+
+    (/)
+    (/register)
+    (/login)
+    (/hospitals)
+    (/addPatient/:id)
+    (/removePatient/:id)

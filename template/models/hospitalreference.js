@@ -1,9 +1,6 @@
 'use strict';
 module.exports = (sequelize, DataTypes) => {
-  // const HospitalReference = sequelize.define('HospitalReference', {
-  // SuspectId: DataTypes.INTEGER,
-  // HospitalId: DataTypes.INTEGER
-  // }, {});
+
   class HospitalReference extends sequelize.Sequelize.Model { }
   HospitalReference.init({
     SuspectId: DataTypes.INTEGER,

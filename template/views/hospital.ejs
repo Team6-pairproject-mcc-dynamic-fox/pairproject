@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+    <div id="container">
+        <h1>HOSPITAL</h1>
+        <% if (message) { %>
+            <h3><%= message %></h3>
+        <% } %>
+        <table id="table">
+            <thead>
+                <th>NO</th>
+                <th>Name</th>
+                <th>Address</th>
+                <th>Total Suspect</th>
+                <th>Capacity</th>
+                <th>ACTION</th>
+            </thead>
+            <tbody>
+                <% for (let i = 0; i < result.length; i++) { %>
+                    <tr>
+                        <td><%= result[i].id %></td>
+                        <td><%= result[i].name %></td>
+                        <td><%= result[i].city %></td>
+                        <td><%= result[i].suspect_total %></td>
+                        <td><%= result[i].suspect_quota %></td>
+                        <td><a href="/hospitals/<%= result[i].id %>/addPatient">[+]</a>|<a href="/hospitals/<%= result[i].id %>/removePatient">[-]</a>|<a href="/hospitals/<%= result[i].id %>/waitinglist">See List</a></td>
+                    </tr>
+                <% } %>
+            </tbody>
+        </table>
+    </div>
+
+</body>
+</html>

@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+    <div id="container">
+        <h1>WAITING LIST</h1>
+        <h3><%= name %></h3>
+        <table id="table">
+            <thead>
+                <th>NO</th>
+                <th>NAME</th>
+                <th>ADDRESS</th>
+            </thead>
+            <tbody>
+                <% for (let i = 0; i < waitinglist.length; i++) { %>
+                    <tr>
+                        <td><%= waitinglist[i].id %></td>
+                        <td><%= waitinglist[i].fullName %></td>
+                        <td><%= waitinglist[i].city %></td>
+                    </tr>
+                <% } %>
+            </tbody>
+        </table>
+    </div>
+
+</body>
+</html>

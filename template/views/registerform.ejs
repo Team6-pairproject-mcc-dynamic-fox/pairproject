@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+    <div id="container">
+        <%- include('./partial/navbar.ejs') %>
+        <h1>REGISTRASI</h1>
+        <% if (message) { %>
+            <h3><%= message %></h3>    
+        <% } %>
+        <form id="form" action="/register" method="POST">
+            <label for="first_name"> First Name:</label>
+            <input type="text" name="first_name" id="first_name"><br>
+    
+            <label for="last_name"> Last Name:</label>
+            <input type="text" name="last_name" id="last_name"><br>
+    
+            <label for="email">Email:</label>
+            <input type="email" name="email" id="email"><br>
+    
+            <label for="password">Password:</label>
+            <input type="text" name="password" id="password"><br>
+    
+            <label for="rePassword">Confirm Password:</label>
+            <input type="text" name="rePassword" id="rePassword"><br>
+    
+            <label for="city">City:</label>
+            <select name="city" id="city">
+                <option value="jakarta">jakarta</option>
+                <option value="bekasi">bekasi</option>
+                <option value="bandung">bandung</option>
+            </select><br><br>
+    
+            <input id="btn" type="submit" value="submit">
+        </form>
+    </div>
+</body>
+</html>
