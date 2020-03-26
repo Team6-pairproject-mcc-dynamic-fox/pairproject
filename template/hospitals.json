@@ -1,0 +1,29 @@
+[
+    {
+        "name": "RSUD Kota Bekasi",
+        "address": " Jl. Pramuka No.55, RT.006/RW.006, Marga Jaya, Kec. Bekasi Sel., Kota Bks, Jawa Barat",
+        "city": "Bekasi",
+        "link_map": "https://www.google.com/maps/place/Bekasi+City+Regional+General+Hospital/@-6.2417296,106.9982562,17z/data=!3m1!4b1!4m5!3m4!1s0x2e698c289bee2c53:0x7e4facafc50fe01d!8m2!3d-6.2417296!4d107.0004449",
+        "suspect_total": 10,
+        "suspect_quota": 100,
+        "hotline": "(021)8841005"
+    },
+    {
+        "name": "RSUP Persahabatan",
+        "address": "Jl. Persahabatan Raya No.1, Pisangan Tim., Kec. Pulo Gadung, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta",
+        "city": "Jakarta",
+        "link_map": "https://www.google.com/maps/place/RSUP+Persahabatan/@-6.2034468,106.8822619,17.05z/data=!4m8!1m2!2m1!1srumah+sakit+persahabatan+jakarta!3m4!1s0x2e69f49718724acb:0xe7d6017f08e37200!8m2!3d-6.2028115!4d106.8848235",
+        "suspect_total": 25,
+        "suspect_quota": 250,
+        "hotline": "(021) 4891708"
+    },
+    {
+        "name": "RSPAD Gatot Subroto",
+        "address": "Jl. Abdul Rahman Saleh Raya No.24, Senen, Kec. Senen, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10410",
+        "city": "Jakarta",
+        "link_map": "https://www.google.com/maps/place/Gatot+Soebroto+Army+Hospital/@-6.1761283,106.8354542,17z/data=!3m1!4b1!4m5!3m4!1s0x2e69f434c79030ff:0x3bac12ae3c734b2a!8m2!3d-6.1761283!4d106.8376429",
+        "suspect_total": 30,
+        "suspect_quota": 500,
+        "hotline": "(021) 3441008"
+    }
+]
