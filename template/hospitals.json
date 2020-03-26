@@ -1,29 +1,479 @@
 [
     {
-        "name": "RSUD Kota Bekasi",
-        "address": " Jl. Pramuka No.55, RT.006/RW.006, Marga Jaya, Kec. Bekasi Sel., Kota Bks, Jawa Barat",
-        "city": "Bekasi",
-        "link_map": "https://www.google.com/maps/place/Bekasi+City+Regional+General+Hospital/@-6.2417296,106.9982562,17z/data=!3m1!4b1!4m5!3m4!1s0x2e698c289bee2c53:0x7e4facafc50fe01d!8m2!3d-6.2417296!4d107.0004449",
-        "suspect_total": 10,
-        "suspect_quota": 100,
-        "hotline": "(021)8841005"
-    },
-    {
         "name": "RSUP Persahabatan",
         "address": "Jl. Persahabatan Raya No.1, Pisangan Tim., Kec. Pulo Gadung, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta",
         "city": "Jakarta",
         "link_map": "https://www.google.com/maps/place/RSUP+Persahabatan/@-6.2034468,106.8822619,17.05z/data=!4m8!1m2!2m1!1srumah+sakit+persahabatan+jakarta!3m4!1s0x2e69f49718724acb:0xe7d6017f08e37200!8m2!3d-6.2028115!4d106.8848235",
-        "suspect_total": 25,
-        "suspect_quota": 250,
+        "suspect_total": 100,
+        "suspect_quota": 100,
         "hotline": "(021) 4891708"
     },
     {
         "name": "RSPAD Gatot Subroto",
         "address": "Jl. Abdul Rahman Saleh Raya No.24, Senen, Kec. Senen, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10410",
         "city": "Jakarta",
-        "link_map": "https://www.google.com/maps/place/Gatot+Soebroto+Army+Hospital/@-6.1761283,106.8354542,17z/data=!3m1!4b1!4m5!3m4!1s0x2e69f434c79030ff:0x3bac12ae3c734b2a!8m2!3d-6.1761283!4d106.8376429",
-        "suspect_total": 30,
-        "suspect_quota": 500,
+        "link_map": "https://www.google.com/maps/place/Gatot+Soebroto+Army+Hospital/@-6.1761283,106.8354542,17z/data=!3m1!4b1!4m5!3m4!1s0x2e69f434c790100ff:0x3bac12ae3c734b2a!8m2!3d-6.1761283!4d106.8376429",
+        "suspect_total": 100,
+        "suspect_quota": 100,
         "hotline": "(021) 3441008"
+    },
+    {
+        "name": "RSPI Prof Dr Sulianti Saroso",
+        "address": "Jl. Sunter Permai Raya, RT.2/RW.12, Papanggo, Tj. Priok, Kota Jkt Utara, Daerah Khusus Ibukota Jakarta ",
+        "city": "Jakarta",
+        "link_map": "https://www.google.com/maps/place/RSPI+Prof+Dr+Sulianti+Saroso/@-6.11000967,106.8600953,17z/data=!3m1!4b1!4m5!3m4!1s0x2e6a1e2b82616ee1:0x598466a2b00f9431!8m2!3d-6.11000967!4d106.862284",
+        "suspect_total": 100,
+        "suspect_quota": 100,
+        "hotline": "(021) 6506559"
+    },
+    {
+        "name": "RSUD Tarakan",
+        "address": "Jl. Kyai Caringin No.7, RT.11/RW.4, Cideng, Kecamatan Gambir, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta",
+        "city": "Jakarta",
+        "link_map": "https://www.google.com/maps/place/Tarakan+Regional+General+Hospital/@-6.1717973,106.8081919,17z/data=!3m1!4b1!4m5!3m4!1s0x2e69f67b8bbb878f:0x8fc8dd7f9440e9ad!8m2!3d-6.1717973!4d106.8103806",
+        "suspect_total": 100,
+        "suspect_quota": 100,
+        "hotline": "(021) 35010003"
+    },
+    {
+        "name": "RSAL Mintoharjo",
+        "address": "Jl. Bendungan Hilir No.17 A, RT.4/RW.3, Bend. Hilir, Kecamatan Tanah Abang, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta",
+        "city": "Jakarta",
+        "link_map": "https://www.google.com/maps/place/Dr.+Mintohardjo+Naval+Hospital/@-6.2111751,106.8080904,17z/data=!4m8!1m2!2m1!1sRSAL+Mintoharjo!3m4!1s0x2e69f6a933415115:0x619f736dd8043cb3!8m2!3d-6.2109658!4d106.8109393",
+        "suspect_total": 100,
+        "suspect_quota": 100,
+        "hotline": "(021) 5703081"
+    },
+    {
+        "name": "RSUD Cengkareng",
+        "address": "Jl. Bumi Cengkareng Indah No.1, RT.13/RW.10, Cengkareng Tim., Kecamatan Cengkareng, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11730",
+        "city": "Jakarta",
+        "link_map": "https://www.google.com/maps/place/RSUD+Cengkareng/@-6.1427661,106.7327165,17z/data=!3m1!4b1!4m5!3m4!1s0x2e6a1d4d25b5990d:0x8bb5b5b0b2b3a715!8m2!3d-6.1427661!4d106.7349052",
+        "suspect_total": 100,
+        "suspect_quota": 100,
+        "hotline": "(021) 54372874"
+    },
+    {
+        "name": "Rumah Sakit Pelni",
+        "address": "Jl. Ks. Tubun No.92 - 94, RT.13/RW.1, Slipi, Kec. Palmerah, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11410",
+        "city": "Jakarta",
+        "link_map": "https://www.google.com/maps/place/Pelni+Hospital/@-6.1910039,106.8030211,17z/data=!3m1!4b1!4m5!3m4!1s0x2e69f69738f71ea7:0xc4ab7b60569deb03!8m2!3d-6.1910039!4d106.8052098",
+        "suspect_total": 100,
+        "suspect_quota": 100,
+        "hotline": "(021) 5306901"
+    },
+    {
+        "name": "RSUD Pasar Minggu",
+        "address": "Jl. TB Simatupang No.1, RT.1/RW.5, Ragunan, Kec. Ps. Minggu, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12550",
+        "city": "Jakarta",
+        "link_map": "https://www.google.com/maps/place/Pasar+Minggu+Regional+General+Hospital/@-6.2945012,106.8177425,17z/data=!3m1!4b1!4m5!3m4!1s0x2e69f2117ea6cab7:0xb0328229c4a59a0b!8m2!3d-6.2945012!4d106.8199312",
+        "suspect_total": 100,
+        "suspect_quota": 100,
+        "hotline": "(021) 29059999"
+    },
+    {
+        "name": "RSUP Fatmawati",
+        "address": "Jl. RS. Fatmawati Raya, Cilandak Bar., Kec. Cilandak, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12430",
+        "city": "Jakarta",
+        "link_map": "https://www.google.com/maps/place/Rumah+Sakit+Umum+Pusat+Fatmawati/@-6.2948577,106.7933516,17z/data=!3m1!4b1!4m5!3m4!1s0x2e69f1e653901bc1:0xc0478e03aaa208d7!8m2!3d-6.2948577!4d106.7955403",
+        "suspect_total": 100,
+        "suspect_quota": 100,
+        "hotline": "(021) 7501524"
+    },
+    {
+        "name": "Rumah Sakit Bhayangkara Tk. I R. Said Sukanto",
+        "address": "Jl. Raya Jakarta-Bogor, RT.1/RW.5, Kramat Jati, Kec. Kramat jati, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13510",
+        "city": "Jakarta",
+        "link_map": "https://www.google.com/maps/place/Police+Hospitals+Tk.+I+Said+R.+Sukanto/@-6.2695535,106.8685198,17z/data=!3m1!4b1!4m5!3m4!1s0x2e69f2f6df8347e3:0x1556154c3bd854b1!8m2!3d-6.2695535!4d106.8707085",
+        "suspect_total": 100,
+        "suspect_quota": 100,
+        "hotline": "(021) 8093288"
+    },
+    {
+        "name": "RSKD Duren Sawit",
+        "address": "Jl. Duren Sawit Baru No.2, RT.16/RW.6, Pd. Bambu, Kec. Duren Sawit, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13430",
+        "city": "Jakarta",
+        "link_map": "https://www.google.com/maps/place/Duren+Sawit+Hospital/@-6.2318512,106.9073457,17z/data=!3m1!4b1!4m5!3m4!1s0x2e698cb4f77af937:0x38ea9245c97c930c!8m2!3d-6.2318512!4d106.9095344",
+        "suspect_total": 100,
+        "suspect_quota": 100,
+        "hotline": "(021) 8628686"
+    },
+    {
+        "name": "RSUP Dr Hasan Sadikin",
+        "address": "Jl. Pasteur No.38, Pasteur, Kec. Sukajadi, Kota Bandung, Jawa Barat 40161",
+        "city": "Bandung",
+        "link_map": "https://www.google.com/maps/place/Dr.+Hasan+Sadikin+Central+General+Hospital/@-6.8981022,107.5959504,17z/data=!3m1!4b1!4m5!3m4!1s0x2e68e642a7183059:0xd07affd224606be5!8m2!3d-6.8981022!4d107.5981391",
+        "suspect_total": 100,
+        "suspect_quota": 100,
+        "hotline": "(022) 2551111"
+    },
+    {
+        "name": "RS Paru Dr H A Rotinsulu",
+        "address": "Jl. Bukit Jarian No.40, Hegarmanah, Kec. Cidadap, Kota Bandung, Jawa Barat 40141",
+        "city": "Bandung",
+        "link_map": "https://www.google.com/maps/place/Dr.+H.+A.+Rotinsulu+Lung+Hospital/@-6.8788486,107.6038509,17z/data=!3m1!4b1!4m5!3m4!1s0x2e68e6efd1eb80b7:0xc3e4780b547b1818!8m2!3d-6.8788486!4d107.6060396",
+        "suspect_total": 100,
+        "suspect_quota": 100,
+        "hotline": "(022) 2034446"
+    },
+    {
+        "name": "RS Mitra Keluarga Pratama Jatiasih",
+        "address": "Jl. Raya Jatimekar, RT.001/RW.012, Jatimekar, Kec. Jatiasih, Kota Bks, Jawa Barat 17422",
+        "city": "Bekasi",
+        "link_map": "https://www.google.com/maps/place/RS+MITRA+KELUARGA+PRATAMA+JATIASIH/@-6.2877841,106.9516444,17z/data=!3m1!4b1!4m5!3m4!1s0x2e698d6b81764d35:0x420c68a915e1e7!8m2!3d-6.2877841!4d106.9538331",
+        "suspect_total": 100,
+        "suspect_quota": 100,
+        "hotline": "(021) 85511000"
+    },
+    {
+        "name": "RS Paru Dr M Goenawan Partowidigdo",
+        "address": "Jalan Puncak Raya Km. 83, Cibeureum, Cisarua, Cibeureum, Kec. Cisarua, Bogor, Jawa Barat 16750",
+        "city": "Bogor",
+        "link_map": "https://www.google.com/maps/place/RSPG+Cisarua+Bogor/@-6.6877515,106.9367471,17z/data=!3m1!4b1!4m5!3m4!1s0x2e69b66a5445fac7:0xc3f39c4c4f8b51f!8m2!3d-6.6877515!4d106.9389358",
+        "suspect_total": 100,
+        "suspect_quota": 100,
+        "hotline": "(0251) 8253630"
+    },
+    {
+        "name": "RS. HERMINA KARAWANG",
+        "address": "Jl. Tuparev Blok Sukasari No.386A, RT.2/RW.4, Karawang Wetan, Kec. Karawang Tim., Kabupaten Karawang, Jawa Barat 41314",
+        "city": "Karawang",
+        "link_map": "https://www.google.com/maps/place/Rs.+HERMINA+KARAWANG/@-6.308177,107.3103653,17z/data=!3m1!4b1!4m5!3m4!1s0x2e6977bde0af54d3:0x9f3213f911127790!8m2!3d-6.308177!4d107.312554",
+        "suspect_total": 100,
+        "suspect_quota": 100,
+        "hotline": "-"
+    },
+    {
+        "name": "RSUD Dr Slamet Garut",
+        "address": "Jl. Rsu DR. Slamet No.12, Sukakarya, Kec. Tarogong Kidul, Kabupaten Garut, Jawa Barat 44151",
+        "city": "Garut",
+        "link_map": "https://www.google.com/maps/place/RSUD+dr.+Slamet/@-7.2200534,107.8948313,17z/data=!3m1!4b1!4m5!3m4!1s0x2e68b04ee1945a25:0x3bbb7b04e4153853!8m2!3d-7.2200534!4d107.89702",
+        "suspect_total": 100,
+        "suspect_quota": 100,
+        "hotline": "(0262) 237791"
+    },
+    {
+        "name": "RSUD R Syamsudin SH",
+        "address": "Jl. Rumah Sakit No.1, Cikole, Kec. Cikole, Kota Sukabumi, Jawa Barat 43113",
+        "city": "Sukabumi",
+        "link_map": "https://www.google.com/maps/place/Kantor+Pusat+Promosi+Kesehatan+Rumah+Sakit+RSUD+R.+Syamsudin,+SH+Sukabumi/@-6.9146036,106.932478,17z/data=!3m1!4b1!4m5!3m4!1s0x2e684835e0228c27:0x28084e7db73656fa!8m2!3d-6.9146036!4d106.9346667",
+        "suspect_total": 100,
+        "suspect_quota": 100,
+        "hotline": "(0266) 225180"
+    },
+    {
+        "name": "RSUD Kabupaten Indramayu",
+        "address": "Jl. Murahnara No.7, Sindang, Kabupaten Indramayu, Jawa Barat 45222",
+        "city": "Indramayu",
+        "link_map": "https://www.google.com/maps/place/Indramayu+Regency+Regional+General+Hospital/@-6.4054685,108.0973284,11z/data=!4m8!1m2!2m1!1sRSUD+Kabupaten+Indramayu!3m4!1s0x2e6eb957ef43ab4d:0x2436dd8079b0217a!8m2!3d-6.3295124!4d108.321558",
+        "suspect_total": 100,
+        "suspect_quota": 100,
+        "hotline": "(0234) 272655"
+    },
+    {
+        "name": "RSD Gunung Jati Kota Cirebon",
+        "address": "Jalan Kesambi Raya No.56, Drajat, Kesambi, Kec. Kesambi, Kota Cirebon, Jawa Barat 45134",
+        "city": "Cirebon",
+        "link_map": "https://www.google.com/maps/place/Gunung+Jati+Goverment+Hospital/@-6.7308445,108.553221,17z/data=!3m1!4b1!4m5!3m4!1s0x2e6f1d89a485d007:0x5dbbae4963e15b0!8m2!3d-6.7308445!4d108.5554097",
+        "suspect_total": 100,
+        "suspect_quota": 100,
+        "hotline": "(0231) 206330"
+    },
+    {
+        "name": "RSU Kabupaten Tangerang",
+        "address": "Jl. Jend. Ahmad Yani No.9, RT.001/RW.003, Sukaasih, Kec. Tangerang, Kota Tangerang, Banten 15111",
+        "city": "Tangerang",
+        "link_map": "https://www.google.com/maps/place/RSUD+Kabupaten+Tangerang/@-6.1697843,106.6334226,17z/data=!3m1!4b1!4m5!3m4!1s0x2e69f8cebd8d2935:0x1e70fa1111c75f8b!8m2!3d-6.1697843!4d106.6356113",
+        "suspect_total": 100,
+        "suspect_quota": 100,
+        "hotline": "(021) 5523507"
+    },
+    {
+        "name": "RS Siloam, Kelapa Dua, Tangerang",
+        "address": "Jl. Kelapa Dua Raya No.1001, RT.2/RW.2, Klp. Dua, Kec. Klp. Dua, Tangerang, Banten 15810",
+        "city": "Tangerang",
+        "link_map": "https://www.google.com/maps/place/Siloam+Hospitals+Kelapa+Dua/@-6.2388537,106.6098272,18.41z/data=!4m5!3m4!1s0x2e69fd6fdb46a9df:0x18b1f0644ae86e23!8m2!3d-6.2384674!4d106.6107808",
+        "suspect_total": 100,
+        "suspect_quota": 100,
+        "hotline": "(021) 80524900"
+    },
+    {
+        "name": "RSUD Dr Drajat Prawiranegara",
+        "address": "Jl. Rumah Sakit Umum No.1, Kotabaru, Kec. Serang, Kota Serang, Banten 42112",
+        "city": "Tangerang",
+        "link_map": "https://www.google.com/maps/place/RSUD+dr.+Dradjat+Prawiranegara+Kota+Serang/@-6.1199015,106.1504341,17z/data=!3m1!4b1!4m5!3m4!1s0x2e418ad42bbe38f1:0xe80dfa6bf96a7128!8m2!3d-6.1199015!4d106.1526228",
+        "suspect_total": 100,
+        "suspect_quota": 100,
+        "hotline": "-"
+    },
+    {
+        "name": "RSUD Dr H Abdul Moeloek",
+        "address": "Jl. Dr. Rivai No.6, Penengahan, Kec. Tj. Karang Pusat, Kota Bandar Lampung, Lampung 35112",
+        "city": "Lampung",
+        "link_map": "https://www.google.com/maps/place/RSUD+Dr.+H.+Abdul+Moeloek+Proinsi/@-5.403073,105.2564366,17z/data=!3m1!4b1!4m5!3m4!1s0x2e40dafbc2e84245:0x1229571431dbd515!8m2!3d-5.403073!4d105.2586253",
+        "suspect_total": 100,
+        "suspect_quota": 100,
+        "hotline": "(0721) 703312"
+    },
+    {
+        "name": "RSUD Raden Mattaher, Kota Jambi",
+        "address": "Jl. Letjen Suprapto No.31, Telanaipura, Kec. Telanaipura, Kota Jambi, Jambi 36361",
+        "city": "Jambi",
+        "link_map": "https://www.google.com/maps/place/RSUD+Raden+Mattaher+Jambi/@-1.6029239,103.5780348,17z/data=!3m1!4b1!4m5!3m4!1s0x2e25885b1ed59e67:0x446797519692c5c8!8m2!3d-1.6029239!4d103.5802235",
+        "suspect_total": 100,
+        "suspect_quota": 100,
+        "hotline": "(0741) 61692"
+    },
+    {
+        "name": "RSUD Dr Doris Sylvanus",
+        "address": "Jl. Palangkaraya, Bukit Tunggal, Kec. Jekan Raya, Kota Palangka Raya, Kalimantan Tengah 74874",
+        "city": "Palangkaraya",
+        "link_map": "https://www.google.com/maps/place/RSUD+Dr+Doris+Sylvanus/@-2.2106568,113.9205465,17z/data=!4m8!1m2!2m1!1sRSUD+Dr+Doris+Sylvanus!3m4!1s0x2dfcb3c328ed8919:0x7cce7bbf81cfa725!8m2!3d-2.2107766!4d113.9229863",
+        "suspect_total": 100,
+        "suspect_quota": 100,
+        "hotline": "(0536) 3224695"
+    },
+    {
+        "name": "RSUD Dr Murjani",
+        "address": "Jalan Haji Muhammad Arsyad No.65, Mentawa Baru Hilir, Mentawa Baru/Ketapan, Jl. H.M. Arsyad No.65, Mentawa Baru Hulu, Mentawa Baru/Ketapan, Kabupaten Kotawaringin Timur, Kalimantan Tengah 74321",
+        "city": "Sampit",
+        "link_map": "https://www.google.com/maps/place/Dr.+Murjani+General+Hospital/@-2.5427758,112.9468547,17z/data=!3m1!4b1!4m5!3m4!1s0x2de2be2c64008259:0x6c3a0040b0b8f193!8m2!3d-2.5427758!4d112.9490434",
+        "suspect_total": 100,
+        "suspect_quota": 100,
+        "hotline": "(0531) 21010"
+    },
+    {
+        "name": "RSUD Sultan Imanuddin",
+        "address": "Jl. Sutan Syahrir No.17, Madurejo, Kec. Arut Sel., Kabupaten Kotawaringin Barat, Kalimantan Tengah 74112",
+        "city": "Pangkalan Bun",
+        "link_map": "https://www.google.com/maps/place/Regional+General+Hospital+Sultan+Imanuddin/@-2.6922649,111.6298882,17z/data=!4m8!1m2!2m1!1sRSUD+Sultan+Imanuddin!3m4!1s0x2e08ee4d12d6cafb:0x7f9cb9479967ebce!8m2!3d-2.691897!4d111.6323895",
+        "suspect_total": 100,
+        "suspect_quota": 100,
+        "hotline": "(0532) 21404"
+    },
+    {
+        "name": "RSUP dr Kariadi",
+        "address": "Jl. DR. Sutomo No.16, Randusari, Kec. Semarang Sel., Kota Semarang, Jawa Tengah 50244",
+        "city": "Semarang",
+        "link_map": "https://www.google.com/maps/place/Kariadi+Hospital+Semarang/@-6.9942118,110.405301,17z/data=!3m1!4b1!4m5!3m4!1s0x2e708b41831c7b9d:0xcb17f1f8f9b49a67!8m2!3d-6.9942118!4d110.4074897",
+        "suspect_total": 100,
+        "suspect_quota": 100,
+        "hotline": "(024) 8413476"
+    },
+    {
+        "name": "RSUD Tugurejo",
+        "address": "Jl. Walisongo No. 137 KM 8.5, Tambakaji, Kec. Ngaliyan, Kota Semarang, Jawa Tengah 50185",
+        "city": "Semarang",
+        "link_map": "https://www.google.com/maps/place/RSUD+Tugurejo+Provinsi+Jawa+Tengah/@-6.9845657,110.3537439,17z/data=!3m1!4b1!4m5!3m4!1s0x2e708ac993169d0d:0x268fbc2093215228!8m2!3d-6.9845657!4d110.3559326",
+        "suspect_total": 100,
+        "suspect_quota": 100,
+        "hotline": "(024) 7605297"
+    },
+    {
+        "name": "RSUP dr Sardjito",
+        "address": "Jl. Kesehatan No.1, Senolowo, Sinduadi, Kec. Mlati, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55281",
+        "city": "Yogyakarta",
+        "link_map": "https://www.google.com/maps/place/Public+Hospital+Dr.+Sardjito/@-7.7686163,110.3712855,17z/data=!3m1!4b1!4m5!3m4!1s0x2e7a584c3f999547:0xf5f81e9fab2e1dfb!8m2!3d-7.7686163!4d110.3734742",
+        "suspect_total": 100,
+        "suspect_quota": 100,
+        "hotline": "(0274) 631190"
+    },
+    {
+        "name": "RSUD Prof Dr H Aloei Saboe",
+        "address": "Jl. Prof. Dr. Aloe Saboe, Wongkaditi, Kota Utara, Kota Gorontalo, Gorontalo 96115",
+        "city": "Gorontalo",
+        "link_map": "https://www.google.com/maps/place/Bidang+Perencanaan+lt.2+RSUD+Prof.dr.h.Aloei+Saboe/@0.5560291,123.0816118,17z/data=!4m8!1m2!2m1!1sRSUD+Prof+Dr+H+Aloei+Saboe!3m4!1s0x327ed4b3e774e1e3:0x13774da5d11b5cf5!8m2!3d0.5565148!4d123.0840112",
+        "suspect_total": 100,
+        "suspect_quota": 100,
+        "hotline": "08124315555"
+    },
+    {
+        "name": "RSUP Sanglah",
+        "address": "Jl. Diponegoro, Dauh Puri Klod, Kec. Denpasar Bar., Kota Denpasar, Bali 80113",
+        "city": "Bali",
+        "link_map": "https://www.google.com/maps/place/Sanglah+General+Hospital/@-8.6757888,115.2109824,17z/data=!3m1!4b1!4m5!3m4!1s0x2dd240e1a28d740d:0x842c9d89a4a920dd!8m2!3d-8.6757888!4d115.2131711",
+        "suspect_total": 100,
+        "suspect_quota": 100,
+        "hotline": "(0361) 227912"
+    },
+    {
+        "name": "RSUD Dr Soetomo",
+        "address": "Jl. Mayjen Prof. Dr. Moestopo No.6-8, Airlangga, Kec. Gubeng, Kota SBY, Jawa Timur 60286",
+        "city": "Surabaya",
+        "link_map": "https://www.google.com/maps/place/General+Hospital+Dr.+Soetomo/@-7.2680224,112.7563105,17z/data=!3m1!4b1!4m5!3m4!1s0x2dd7fbd512bf64af:0xc44b2981f167bffe!8m2!3d-7.2680224!4d112.7584992",
+        "suspect_total": 100,
+        "suspect_quota": 100,
+        "hotline": "(031) 5501078"
+    },
+    {
+        "name": "RS Universitas Airlangga Kampus C Universitas Airlangga",
+        "address": "Kampus C Unair, Jl. Mulyorejo, Mulyorejo, Kec. Mulyorejo, Kota SBY, Jawa Timur 60115",
+        "city": "Surabaya",
+        "link_map": "https://www.google.com/maps/place/Rumah+Sakit+Khusus+Infeksi+Universitas+Airlangga/@-7.2694293,112.782843,17z/data=!4m8!1m2!2m1!1sRS+Universitas+Airlangga+Kampus+C+Universitas+Airlangga!3m4!1s0x2dd7fa22050b2545:0x25a568db64a8bd1b!8m2!3d-7.2702072!4d112.7861444",
+        "suspect_total": 100,
+        "suspect_quota": 100,
+        "hotline": "(031) 5961389"
+    },
+    {
+        "name": "RSUD Dr Saiful Anwar",
+        "address": "Jl. Jaksa Agung Suprapto No.2, Klojen, Kec. Klojen, Kota Malang, Jawa Timur 65111",
+        "city": "Malang",
+        "link_map": "https://www.google.com/maps/place/RSUD+Dr.+Saiful+Anwar+Malang/@-7.9725673,112.6293569,17z/data=!3m1!4b1!4m5!3m4!1s0x2dd629021f246f61:0x35d94a2ce8103b78!8m2!3d-7.9725673!4d112.6315456",
+        "suspect_total": 100,
+        "suspect_quota": 100,
+        "hotline": "(0341) 362101"
+    },
+    {
+        "name": "RSU Siloam Hospital Surabaya ",
+        "address": "Jl. Raya Gubeng No.70, Gubeng, Kec. Gubeng, Kota SBY, Jawa Timur 60281",
+        "city": "Surabaya",
+        "link_map": "https://www.google.com/maps/place/Siloam+Hospitals+Surabaya/@-7.274057,112.7443283,17z/data=!3m1!4b1!4m5!3m4!1s0x2dd7fbcffbc7d2ab:0xcc071aab97d93db6!8m2!3d-7.274057!4d112.746517",
+        "suspect_total": 100,
+        "suspect_quota": 100,
+        "hotline": "(031) 99206900"
+    },
+    {
+        "name": "RSI Surabaya",
+        "address": "Jl. Achmad Yani No.2-4, Wonokromo, Kec. Wonokromo, Kota SBY, Jawa Timur 60243",
+        "city": "Surabaya",
+        "link_map": "https://www.google.com/maps/place/Rumah+Sakit+Islam+Surabaya/@-7.3063849,112.7327866,17z/data=!3m1!4b1!4m5!3m4!1s0x2dd7f963d2d4fb4d:0x4d5564dcc8032c68!8m2!3d-7.3063849!4d112.7349753",
+        "suspect_total": 100,
+        "suspect_quota": 100,
+        "hotline": "(031) 8284505"
+    },
+    {
+        "name": "RSUD Syarifah Ambami Rato Ebo",
+        "address": "Jl. Pemuda Kaffa No.9, Pejagan, Kec. Bangkalan, Kabupaten Bangkalan, Jawa Timur 69112",
+        "city": "Bangkalan",
+        "link_map": "https://www.google.com/maps/place/Hospital+Syarifah+Ambami+Rato+Ebu/@-7.0290495,112.7573814,17z/data=!3m1!4b1!4m5!3m4!1s0x2dd8057864d77839:0x73bf4e3ede9828a4!8m2!3d-7.0290495!4d112.7595701",
+        "suspect_total": 100,
+        "suspect_quota": 100,
+        "hotline": "(031) 3095088"
+    },
+    {
+        "name": "RSUD Dr Moewardi",
+        "address": "Jl. Kolonel Sutarto No.132, Jebres, Kec. Jebres, Kota Surakarta, Jawa Tengah 57126",
+        "city": "Solo",
+        "link_map": "https://www.google.com/maps/place/Dr.+Moewardi+Hospital/@-7.558175,110.8394868,17z/data=!3m1!4b1!4m5!3m4!1s0x2e7a16fb6d436629:0x8016faa044ce174!8m2!3d-7.558175!4d110.8416755",
+        "suspect_total": 100,
+        "suspect_quota": 100,
+        "hotline": "(0271) 634634"
+    },
+    {
+        "name": "RSUD Tabanan",
+        "address": "Jl. Pahlawan No.14, Delod Peken, Kec. Tabanan, Kabupaten Tabanan, Bali 82121",
+        "city": "Bali",
+        "link_map": "https://www.google.com/maps/place/Tabanan+General+Hospital/@-8.5391532,115.1300213,17z/data=!3m1!4b1!4m5!3m4!1s0x2dd23a56d69f0683:0xacaf86eba66ede44!8m2!3d-8.5391532!4d115.13221",
+        "suspect_total": 100,
+        "suspect_quota": 100,
+        "hotline": "(0361) 811027"
+    },
+    {
+        "name": "RSU Jayapura",
+        "address": "Jl. Kesehatan No.1, Dok II, Bayangkara, Jayapura Utara, Kota Jayapura, Papua",
+        "city": "Papua",
+        "link_map": "https://www.google.com/maps/place/Jayapura+Regional+General+Hospital/@-2.5349504,140.7082262,17z/data=!3m1!4b1!4m5!3m4!1s0x686c5839f89962b7:0x718e0d69a7250b9a!8m2!3d-2.5349504!4d140.7104149",
+        "suspect_total": 100,
+        "suspect_quota": 100,
+        "hotline": "(0967) 533616"
+    },
+    {
+        "name": "RSU Dr. M. Haulussy Ambon",
+        "address": "Jl. Dr. Kayadoe, Benteng, Nusaniwe, Kel Benteng, Nusaniwe, Kota Ambon, Maluku",
+        "city": "Ambon",
+        "link_map": "https://www.google.com/maps/place/Hospital+Dr.+M.+Haulussy/@-3.708524,128.1633375,17z/data=!3m1!4b1!4m5!3m4!1s0x2d6ce5972c6e30bf:0x6e8dfc0e642bad6f!8m2!3d-3.708524!4d128.1655262",
+        "suspect_total": 100,
+        "suspect_quota": 100,
+        "hotline": "(0911) 344871"
+    },
+    {
+        "name": " RS Universitas Hasanuddin",
+        "address": "Jl. Perintis Kemerdekaan No.KM 10, Tamalanrea Indah, Kec. Tamalanrea, Kota Makassar, Sulawesi Selatan 90245",
+        "city": "Makassar",
+        "link_map": "https://www.google.com/maps/place/RS.+Unhas+Gedung+E-F/@-5.1332945,119.4921941,17z/data=!3m1!4b1!4m5!3m4!1s0x2dbf02a774c604c7:0xfbe7a90a3be05ec!8m2!3d-5.1332945!4d119.4943828",
+        "suspect_total": 100,
+        "suspect_quota": 100,
+        "hotline": "(0411) 591331"
+    },
+    {
+        "name": "RSUD Ulin",
+        "address": "Jalan A. Yani No. 43, Sungai Baru, Banjarmasin Tengah, Sungai Baru, Kec. Banjarmasin Tengah, Kota Banjarmasin, Kalimantan Selatan 70233",
+        "city": "Banjarmasin",
+        "link_map": "https://www.google.com/maps/place/Ulin+General+Hospital/@-3.3228411,114.5989962,17z/data=!3m1!4b1!4m5!3m4!1s0x2de423e67db138ef:0xd0c93abd58eef790!8m2!3d-3.3228411!4d114.6011849",
+        "suspect_total": 100,
+        "suspect_quota": 100,
+        "hotline": "(0511) 3252180"
+    },
+    {
+        "name": "RSU Dr. Sudarso",
+        "address": "Jl. DR. Soedarso No.1, Bangka Belitung Laut, Kec. Pontianak Tenggara, Kota Pontianak, Kalimantan Barat 78111",
+        "city": "Pontianak",
+        "link_map": "https://www.google.com/maps/place/RSUD+Dr.+Soedarso/@-0.061577,109.3624383,17z/data=!3m1!4b1!4m5!3m4!1s0x2e1d59f02c8a4edd:0x22ae606b4932892f!8m2!3d-0.061577!4d109.364627",
+        "suspect_total": 100,
+        "suspect_quota": 100,
+        "hotline": "(0561) 737701"
+    },
+    {
+        "name": "RSUD Kota Bima",
+        "address": "Jl. Datuk Dibanta, Jatiwangi, Asakota, Bima, Nusa Tenggara Bar. 84117",
+        "city": "Bima",
+        "link_map": "https://www.google.com/maps/place/RSUD+Kota+Bima/@-8.4501463,118.7307511,17z/data=!3m1!4b1!4m5!3m4!1s0x2db58bbf2efe496d:0xdb8ca56bfa28e0fa!8m2!3d-8.4501463!4d118.7329398",
+        "suspect_total": 100,
+        "suspect_quota": 100,
+        "hotline": "-"
+    },
+    {
+        "name": "RSU Dr. TC Hillers",
+        "address": "JL Wairklau, No. 1, 86113, Kota Baru, Alok Tim., Kabupaten Sikka, Nusa Tenggara Tim.",
+        "city": "Maumere",
+        "link_map": "https://www.google.com/maps/place/Regional+General+Hospital+(Hospital)+Dr.+TC+Hillers/@-8.6223857,122.2020435,17z/data=!3m1!4b1!4m5!3m4!1s0x2dad1bcd535b6c8f:0x19ec7ea424241ed2!8m2!3d-8.6223857!4d122.2042322",
+        "suspect_total": 100,
+        "suspect_quota": 100,
+        "hotline": "0812-6115-3944"
+    },
+    {
+        "name": "RSU Dr. Zainoel Abidin",
+        "address": "Jl. Teuku Moh. Daud Beureueh No.108, Bandar Baru, Kec. Kuta Alam, Kota Banda Aceh, Aceh 24415",
+        "city": "Aceh",
+        "link_map": "https://www.google.com/maps/place/dr.+Zainoel+Abidin+Regional+General+Hospital/@5.5637127,95.3353989,17z/data=!3m1!4b1!4m5!3m4!1s0x30403713e334d845:0x3e919c2162ffb069!8m2!3d5.5637127!4d95.3375876",
+        "suspect_total": 100,
+        "suspect_quota": 100,
+        "hotline": "(0651) 34565"
+    },
+    {
+        "name": "RSU H. Adam Malik",
+        "address": "Jl. Bunga Lau No.17, Kemenangan Tani, Kec. Medan Tuntungan, Kota Medan, Sumatera Utara 20136",
+        "city": "Medan",
+        "link_map": "https://www.google.com/maps/place/General+Hospital+H.+Adam+Malik/@3.5184086,98.6064493,17z/data=!3m1!4b1!4m5!3m4!1s0x303125a213ccb2b7:0xf3f662312bf15955!8m2!3d3.5184086!4d98.608638",
+        "suspect_total": 100,
+        "suspect_quota": 100,
+        "hotline": "(061) 8360143"
+    },
+    {
+        "name": "RSU Kota Dumai",
+        "address": "Jl. Tj. Jati No.4, Buluh Kasap, Dumai Tim., Kota Dumai, Riau 28812",
+        "city": "Jakarta",
+        "link_map": "https://www.google.com/maps/place/RSUD+Kota+Dumai/@1.6802695,101.4573467,17z/data=!3m1!4b1!4m5!3m4!1s0x31d3af1fc97d41ef:0xebcd7315028abbbd!8m2!3d1.6802695!4d101.4595354",
+        "suspect_total": 100,
+        "suspect_quota": 100,
+        "hotline": "(0765) 440992"
+    },
+    {
+        "name": "RSU Pangkal Pinang",
+        "address": "Bukitbesar, Girimaya, Pangkal Pinang City, Bangka Belitung Islands 33684",
+        "city": "Bangka Belitung",
+        "link_map": "https://www.google.com/maps/place/RSUD+Pangkalpinang/@-2.1308977,106.1111073,14z/data=!4m8!1m2!2m1!1sRSU+Pangkal+Pinang!3m4!1s0x2e22c730479a7527:0xdc62540c042352dd!8m2!3d-2.1440657!4d106.1243429",
+        "suspect_total": 100,
+        "suspect_quota": 100,
+        "hotline": "(0717) 422693"
+    },
+    {
+        "name": "RSUP Dr. M. Jamil",
+        "address": "Jl. Perintis Kemerdekaan, Sawahan Tim., Kec. Padang Tim., Kota Padang, Sumatera Barat 25171",
+        "city": "Padang",
+        "link_map": "https://www.google.com/maps/place/RSUP+Dr.+M.+Djamil/@-0.9430638,100.3661033,17z/data=!4m8!1m2!2m1!1sRSUP+Dr.+M.+Jamil!3m4!1s0x2fd4b93b7f3bc70d:0x1230c06e21cb064a!8m2!3d-0.9434096!4d100.3669544",
+        "suspect_total": 100,
+        "suspect_quota": 100,
+        "hotline": "(0751) 32371"
     }
 ]
