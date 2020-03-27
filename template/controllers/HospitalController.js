@@ -99,11 +99,13 @@ class HospitalController {
               console.log('Preview URL: %s', nodemailer.getTestMessageUrl(info));
 
           });
-        return models.Suspect.destroy({where: {id: nameId}})
-        })
-        .then(result => {
-            req.session.message = `Email has been sent to ${nameTarget}`
-            res.redirect('/hospitals');
+          req.session.message = `Email has been sent to ${nameTarget}`
+          res.redirect('/hospitals');
+        // return models.Suspect.destroy({where: {id: nameId}})
+        // })
+        // .then(result => {
+        //     req.session.message = `Email has been sent to ${nameTarget}`
+        //     res.redirect('/hospitals');
         })
         .catch(err => {
             res.send(err)
@@ -193,11 +195,13 @@ class HospitalController {
               console.log('Preview URL: %s', nodemailer.getTestMessageUrl(info));
 
           });
-        return models.Suspect.destroy({where: {id: nameId}})
-        })
-        .then(result => {
-            req.session.message = `Email has been sent to ${nameTarget}`
-            res.redirect('/hospitals');
+          req.session.message = `Email has been sent to ${nameTarget}`
+          res.redirect('/hospitals');
+        // return models.Suspect.destroy({where: {id: nameId}})
+        // })
+        // .then(result => {
+        //     req.session.message = `Email has been sent to ${nameTarget}`
+        //     res.redirect('/hospitals');
         })
         .catch(err => {
             res.send(err)
